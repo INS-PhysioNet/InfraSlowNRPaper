@@ -57,4 +57,4 @@ R.plotFiringRates(start,stop,aval_window,states='all',regions=70,smooth=smooth,m
 PlotIntervals(slow_avals.nr,'color',[1,0.89,0.82],'legend','off','alpha',1)
 PlotIntervals(slow_intervals.nr,'legend','off')
 set(axs(2),'YLim',[0,0.25],'YTickMode','auto','YTickLabelMode','auto'); legend(axs(2),'off')
-do_save && saveFig(fig_aval,fullfile(file_root,'Figures/Fig1d'),'svg');
+do_save && saveFig(fig_aval,fullfile(file_root,'Figures_axes/Fig1d'),'svg');
