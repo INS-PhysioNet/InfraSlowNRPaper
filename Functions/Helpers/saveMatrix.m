@@ -1,5 +1,19 @@
 function status = saveMatrix(A,file,labels)
 % saveMatrix Save content of matrix A in a text file, prepending a metadata header
+%
+% arguments:
+%     A         matrix to save
+%     file      string, file name to save matrix to
+%     labels    string, repeating, names of columns
+%
+% output:
+%     status    logical, always true; necessary to allow the syntax:
+%
+%               >> logical_flag && saveMatrix(A,file,label1,label2,<other_labels>);
+%
+%               which will save A only if logical_flag is true;
+%               first line of file is:
+%               % columns : label1, label2, <other_labels>
 
 % Copyright (C) 2025 by Pietro Bozzo
 %
