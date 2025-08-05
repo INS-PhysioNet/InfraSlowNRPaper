@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="974px" height="394px" viewBox="0 0 974 394" enable-background="new 0 0 974 394" xml:space="preserve">
+<g transform="translate(504.0005,30.1)">
+	<text transform="matrix(1 0 0 1 -180.8335 -50.3329)" font-family="'MyriadPro-Regular'" font-size="20.5833">Ripples rate at spindles onset DOWN</text>
+</g>
+<g>
+	
+		<line fill="none" stroke="#000000" stroke-width="2.2431" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="127" y1="167.051" x2="312.833" y2="167.051"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2.2431" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="127" y1="166.166" x2="127" y2="34"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2.2431" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="127" y1="167.051" x2="119.46" y2="167.051"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2.2431" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="127" y1="130.261" x2="119.46" y2="130.261"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2.2431" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="127" y1="93.471" x2="119.46" y2="93.471"/>
+	
+		<line fill="none" stroke="#000000" stroke-width="2.2431" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="127" y1="56.682" x2="119.46" y2="56.682"/>
+	<g transform="translate(113.6544,167.0509)">
+		<text transform="matrix(1 0 0 1 -10.0001 6.0009)" font-family="'MyriadPro-Regular'" font-size="15.8333">0</text>
+	</g>
+	<g transform="translate(113.6544,130.2612)">
+		<text transform="matrix(1 0 0 1 -32.0001 6.0005)" font-family="'MyriadPro-Regular'" font-size="15.8333">0.02</text>
+	</g>
+	<g transform="translate(113.6544,93.4713)">
+		<text transform="matrix(1 0 0 1 -32.0001 6.0004)" font-family="'MyriadPro-Regular'" font-size="15.8333">0.04</text>
+	</g>
+	<g transform="translate(113.6544,56.6815)">
+		<text transform="matrix(1 0 0 1 -32.0001 6.0001)" font-family="'MyriadPro-Regular'" font-size="15.8333">0.06</text>
+	</g>
+	<g transform="translate(72.6961,192.4998) rotate(-90)">
+		<text transform="matrix(1 0 0 1 47.3338 -7.3328)" font-family="'MyriadPro-Regular'" font-size="19">Ripples rate</text>
+	</g>
+	<g>
+		<path fill="#808080" d="M151.5,111.208v10.969h29v-10.969H151.5z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-linecap="square" stroke-miterlimit="10" d="M151.5,111.208
+			v10.969V111.208h29l0,0v10.969l0,0h-29V111.208"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" x1="151.5" y1="119.821" x2="180.5" y2="119.821"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="1.9792" stroke-linejoin="round" stroke-miterlimit="10" x1="166" y1="125" x2="166" y2="122.177"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="1.9792" stroke-linejoin="round" stroke-miterlimit="10" x1="166" y1="96.439" x2="166" y2="111.208"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M165.253,88.343v10 M160.253,93.343h10
+			 M161.955,90.045l6.597,6.597 M161.955,96.642l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M169.381,85.425v10 M164.381,90.425h10
+			 M166.083,87.127l6.597,6.597 M166.083,93.724l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M164.349,82.149v10 M159.349,87.149h10
+			 M161.05,83.85l6.597,6.597 M161.05,90.447l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M163.814,79.51v10 M158.814,84.51h10
+			 M160.515,81.211l6.597,6.597 M160.515,87.809l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M168.261,77.312v10 M163.261,82.312h10
+			 M164.963,79.013l6.597,6.597 M164.963,85.61l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M162.264,76.884v10 M157.264,81.884h10
+			 M158.965,78.586l6.597,6.597 M158.965,85.183l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M157.67,75.719v10 M152.67,80.719h10
+			 M154.372,77.421l6.597,6.597 M154.372,84.018l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M162.562,76.422v10 M157.562,81.422h10
+			 M159.264,78.124l6.597,6.597 M159.264,84.721l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M172.596,78.149v10 M167.596,83.149h10
+			 M169.297,79.851l6.598,6.597 M169.297,86.448l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M160.807,79.417v10 M155.807,84.417h10
+			 M157.508,81.118l6.597,6.597 M157.508,87.715l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M160.475,82.381v10 M155.475,87.381h10
+			 M157.176,84.083l6.597,6.597 M157.176,90.68l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M162.224,85.542v10 M157.224,90.542h10
+			 M158.925,87.243l6.597,6.597 M158.925,93.84l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M169.645,87.548v10 M164.645,92.548h10
+			 M166.346,89.25l6.597,6.597 M166.346,95.847l6.597-6.597"/>
+	</g>
+	<g>
+		<path fill="#CCCCCC" d="M209.5,100.164v18.45h29v-18.45H209.5z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-linecap="square" stroke-miterlimit="10" d="M209.5,100.164
+			v18.45V100.164h29l0,0v18.45l0,0h-29V100.164"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" x1="209.5" y1="113.624" x2="238.5" y2="113.624"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="1.9792" stroke-linejoin="round" stroke-miterlimit="10" x1="224" y1="126.773" x2="224" y2="118.614"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="1.9792" stroke-linejoin="round" stroke-miterlimit="10" x1="224" y1="73.965" x2="224" y2="100.164"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M225.221,55.2v10 M220.221,60.2h10
+			 M221.922,56.901l6.597,6.597 M221.922,63.499l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M226.538,54.947v10 M221.538,59.947h10
+			 M223.239,56.649l6.598,6.597 M223.239,63.246l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M217.059,51.059v10 M212.059,56.059h10
+			 M213.76,52.761l6.598,6.597 M213.76,59.358l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M230.148,35.47v10 M225.148,40.47h10
+			 M226.85,37.171l6.597,6.597 M226.85,43.769l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M224.678,29v10 M219.678,34h10
+			 M221.38,30.702l6.597,6.597 M221.38,37.298l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M230.378,29.821v10 M225.378,34.821h10
+			 M227.079,31.522l6.598,6.597 M227.079,38.12l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M230.636,65.441v10 M225.636,70.441h10
+			 M227.337,67.143l6.597,6.597 M227.337,73.74l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M231.403,66.274v10 M226.403,71.274h10
+			 M228.104,67.976l6.598,6.597 M228.104,74.573l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M231.87,64.899v10 M226.87,69.899h10
+			 M228.572,66.6l6.597,6.597 M228.572,73.197l6.597-6.597"/>
+	</g>
+	<g>
+		<path fill="#CCCCCC" d="M270.5,95.658v13.539h29V95.658H270.5z"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-linecap="square" stroke-miterlimit="10" d="M270.5,95.658
+			v13.539V95.658h29l0,0v13.539l0,0h-29V95.658"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" x1="270.5" y1="105.386" x2="299.5" y2="105.386"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="1.9792" stroke-linejoin="round" stroke-miterlimit="10" x1="285" y1="115.041" x2="285" y2="109.197"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="1.9792" stroke-linejoin="round" stroke-miterlimit="10" x1="285" y1="76.461" x2="285" y2="95.658"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M280.554,66.707v10 M275.554,71.707h10
+			 M277.255,68.409l6.598,6.597 M277.255,75.005l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M281.853,60.912v10 M276.853,65.912h10
+			 M278.554,62.614l6.598,6.597 M278.554,69.211l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M292.229,55.646v10 M287.229,60.646h10
+			 M288.931,57.347l6.598,6.597 M288.931,63.944l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M279.444,52.094v10 M274.444,57.094h10
+			 M276.146,53.795l6.597,6.597 M276.146,60.393l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M278.859,50.168v10 M273.859,55.168h10
+			 M275.561,51.87l6.597,6.597 M275.561,58.467l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M291.203,48.102v10 M286.203,53.102h10
+			 M287.904,49.803l6.598,6.597 M287.904,56.4l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M279.339,49.402v10 M274.339,54.402h10
+			 M276.04,51.104l6.597,6.597 M276.04,57.701l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M292.952,50.097v10 M287.952,55.097h10
+			 M289.653,51.798l6.598,6.597 M289.653,58.395l6.598-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M280.657,51.808v10 M275.657,56.808h10
+			 M277.358,53.509l6.597,6.597 M277.358,60.106l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M277.063,53.088v10 M272.063,58.088h10
+			 M273.765,54.79l6.597,6.597 M273.765,61.386l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M281.612,55.708v10 M276.612,60.708h10
+			 M278.314,57.41l6.597,6.597 M278.314,64.007l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M282.988,58.949v10 M277.988,63.949h10
+			 M279.689,60.65l6.597,6.597 M279.689,67.247l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M282.556,62.811v10 M277.556,67.811h10
+			 M279.258,64.513l6.597,6.597 M279.258,71.11l6.597-6.597"/>
+		<path fill="none" stroke="#000000" stroke-width="0.6597" stroke-miterlimit="10" d="M290.523,68.223v10 M285.523,73.223h10
+			 M287.225,69.924l6.598,6.597 M287.225,76.521l6.598-6.597"/>
+	</g>
+</g>
+</svg>

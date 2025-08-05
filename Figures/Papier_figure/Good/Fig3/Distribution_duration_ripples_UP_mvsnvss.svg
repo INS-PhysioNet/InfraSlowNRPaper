@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="560px" height="420px" viewBox="0 0 560 420" enable-background="new 0 0 560 420" xml:space="preserve">
+<g transform="translate(290.0003,28.25)">
+	<text transform="matrix(1 0 0 1 -88.9998 -5)" font-family="'MyriadPro-Regular'" font-size="14.5139">Smooth histogram (KDE)</text>
+</g>
+<g>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="373" x2="507" y2="373"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="373" x2="73" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="116.4" y1="373" x2="116.4" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="159.8" y1="373" x2="159.8" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="203.2" y1="373" x2="203.2" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="246.6" y1="373" x2="246.6" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="290" y1="373" x2="290" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="333.4" y1="373" x2="333.4" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="376.8" y1="373" x2="376.8" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="420.2" y1="373" x2="420.2" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="463.6" y1="373" x2="463.6" y2="368.66"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="31" x2="73" y2="35.34"/>
+	<g transform="translate(73,378.2778)">
+		<text transform="matrix(1 0 0 1 -8 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">10</text>
+	</g>
+	<g transform="translate(116.4,378.2778)">
+		<text transform="matrix(1 0 0 1 -8.0001 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">20</text>
+	</g>
+	<g transform="translate(159.8,378.2778)">
+		<text transform="matrix(1 0 0 1 -8.0002 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">30</text>
+	</g>
+	<g transform="translate(203.2,378.2778)">
+		<text transform="matrix(1 0 0 1 -7.9998 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">40</text>
+	</g>
+	<g transform="translate(246.6,378.2778)">
+		<text transform="matrix(1 0 0 1 -7.9999 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">50</text>
+	</g>
+	<g transform="translate(290,378.2778)">
+		<text transform="matrix(1 0 0 1 -8 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">60</text>
+	</g>
+	<g transform="translate(333.4,378.2778)">
+		<text transform="matrix(1 0 0 1 -7.9996 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">70</text>
+	</g>
+	<g transform="translate(376.8,378.2778)">
+		<text transform="matrix(1 0 0 1 -8.0002 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">80</text>
+	</g>
+	<g transform="translate(420.2,378.2778)">
+		<text transform="matrix(1 0 0 1 -7.9998 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">90</text>
+	</g>
+	<g transform="translate(463.6,378.2778)">
+		<text transform="matrix(1 0 0 1 -11.5004 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">100</text>
+	</g>
+	<g transform="translate(507,378.2778)">
+		<text transform="matrix(1 0 0 1 -11.5 15.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">110</text>
+	</g>
+	<g transform="translate(290.0002,398.5972)">
+		<text transform="matrix(1 0 0 1 -47.0002 16.0005)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="14.5139">Duration (ms)</text>
+	</g>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="373" x2="73" y2="31"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="373" x2="77.34" y2="373"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="330.25" x2="77.34" y2="330.25"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="287.5" x2="77.34" y2="287.5"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="244.75" x2="77.34" y2="244.75"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="202" x2="77.34" y2="202"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="159.25" x2="77.34" y2="159.25"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="116.5" x2="77.34" y2="116.5"/>
+	
+		<line fill="none" stroke="#262626" stroke-width="0.6597" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" x1="73" y1="73.75" x2="77.34" y2="73.75"/>
+	<g transform="translate(67.7222,373)">
+		<text transform="matrix(1 0 0 1 -8 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0</text>
+	</g>
+	<g transform="translate(67.7222,330.25)">
+		<text transform="matrix(1 0 0 1 -34 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0.005</text>
+	</g>
+	<g transform="translate(67.7222,287.5)">
+		<text transform="matrix(1 0 0 1 -27 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0.01</text>
+	</g>
+	<g transform="translate(67.7222,244.75)">
+		<text transform="matrix(1 0 0 1 -34 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0.015</text>
+	</g>
+	<g transform="translate(67.7222,202)">
+		<text transform="matrix(1 0 0 1 -27 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0.02</text>
+	</g>
+	<g transform="translate(67.7222,159.25)">
+		<text transform="matrix(1 0 0 1 -34 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0.025</text>
+	</g>
+	<g transform="translate(67.7222,116.5)">
+		<text transform="matrix(1 0 0 1 -27 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0.03</text>
+	</g>
+	<g transform="translate(67.7222,73.75)">
+		<text transform="matrix(1 0 0 1 -34 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0.035</text>
+	</g>
+	<g transform="translate(67.7222,31)">
+		<text transform="matrix(1 0 0 1 -27 5.5)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="13.1944">0.04</text>
+	</g>
+	<g transform="translate(29.7639,201.9998) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -37.0002 -5.0002)" fill="#262626" font-family="'MyriadPro-Regular'" font-size="14.5139">Probability</text>
+	</g>
+	<g>
+		<path fill="none" stroke="#0000FF" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" d="M116.4,198.999
+			l1.745-32.609l1.745-22.596l1.745-14.797l1.745-11.68l1.745-12.777l1.745-15.603l1.745-16.976l1.745-14.649l1.745-8.236
+			l1.745,0.356l1.745,7.827l1.745,11.394l1.745,9.867l1.745,4.617l1.745-1.694l1.745-6.136l1.745-7.26l1.745-5.115l1.745-1.332
+			l1.745,2.449l1.745,4.803l1.745,5.562l1.745,4.864l1.745,3.328l1.745,1.357l1.745-0.362l1.745-1.335l1.745-1.113l1.745-0.072
+			l1.745,1.311l1.745,2.358l1.745,3.088l1.745,3.578l1.745,4.142l1.745,4.632l1.745,4.941l1.745,4.712l1.745,4.026l1.745,3.096
+			l1.745,2.674l1.745,3.197l1.745,4.814l1.745,6.77l1.745,8.221l1.745,8.453l1.745,7.639l1.745,6.187l1.745,4.661l1.745,3.186
+			l1.745,2.024l1.745,1.374l1.745,1.558l1.745,2.423l1.745,3.734l1.745,5.009l1.745,5.967l1.745,6.24l1.745,5.783l1.745,4.77
+			l1.745,3.743l1.745,3.017l1.745,2.719l1.745,2.672l1.745,2.846l1.745,3.168l1.745,3.675l1.745,4.181l1.745,4.587l1.745,4.743
+			l1.745,4.697l1.745,4.48l1.745,4.215l1.745,3.941l1.745,3.774l1.745,3.735l1.745,3.875l1.745,4.047l1.745,4.059l1.745,3.639
+			l1.745,2.84l1.745,1.945l1.745,1.404l1.745,1.393l1.745,1.834l1.745,2.405l1.745,2.823l1.745,2.883l1.745,2.6l1.745,2.113
+			l1.745,1.662l1.745,1.388l1.745,1.358l1.745,1.539l1.745,1.856l1.745,2.137l1.745,2.205l1.745,1.943l1.744,1.447l1.745,0.946
+			l1.744,0.675l1.745,0.661l1.744,0.777l1.745,0.878l1.745,0.983l1.744,1.164l1.745,1.401l1.744,1.509l1.745,1.34l1.745,0.934
+			l1.744,0.475l1.745,0.139l1.745,0.006l1.744,0.09l1.745,0.398l1.744,0.917l1.745,1.587l1.744,2.25l1.745,2.715l1.745,2.829
+			l1.744,2.608l1.745,2.186l1.744,1.687l1.745,1.13l1.745,0.515l1.744-0.066l1.745-0.44l1.744-0.523l1.745-0.42l1.745-0.32
+			l1.744-0.307l1.745-0.326l1.744-0.301l1.745-0.249l1.745-0.225l1.744-0.2l1.745-0.066l1.744,0.242l1.745,0.613l1.745,0.818
+			l1.744,0.703l1.745,0.33l1.744-0.068l1.745-0.234l1.745-0.055l1.744,0.395l1.745,0.917l1.744,1.302l1.745,1.429l1.745,1.285
+			l1.744,0.954l1.745,0.553l1.744,0.179l1.745-0.11l1.744-0.307l1.745-0.427l1.745-0.497l1.744-0.516l1.745-0.449l1.745-0.293
+			l1.744-0.102l1.745,0.058l1.744,0.187l1.745,0.349l1.745,0.567l1.744,0.749l1.745,0.749l1.744,0.517l1.745,0.155l1.745-0.162
+			l1.744-0.295l1.745-0.18l1.744,0.175l1.745,0.678l1.744,1.132l1.745,1.307l1.745,1.104l1.744,0.632l1.745,0.136l1.744-0.193
+			l1.745-0.32l1.745-0.305l1.744-0.221l1.745-0.102l1.744,0.017l1.745,0.111l1.745,0.167l1.744,0.199l1.745,0.203l1.744,0.162
+			l1.745,0.068l1.745-0.051l1.744-0.133l1.745-0.14l1.744-0.058l1.745,0.115l1.745,0.383l1.744,0.701l1.745,0.984l1.744,1.129"/>
+		<path fill="none" stroke="#FF0000" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" d="M116.4,189.713
+			l1.745-34.94l1.745-22.542l1.745-11.857l1.745-6.502l1.745-6.511l1.745-9.222l1.745-11.302l1.745-10.73l1.745-7.198l1.745-1.859
+			l1.745,3.393l1.745,6.894l1.745,7.409l1.745,5.251l1.745,1.687l1.745-1.27l1.745-2.351l1.745-1.315l1.745,0.601l1.745,2.033
+			l1.745,1.917l1.745,0.668l1.745-0.781l1.745-1.36l1.745-1.101l1.745-0.465l1.745-0.024l1.745,0.409l1.745,1.022l1.745,2.043
+			l1.745,3.148l1.745,4.156l1.745,4.676l1.745,4.516l1.745,3.396l1.745,1.793l1.745,0.581l1.745,0.854l1.745,2.566l1.745,4.729
+			l1.745,5.815l1.745,5.325l1.745,3.736l1.745,2.214l1.745,1.281l1.745,0.869l1.745,0.435l1.745-0.109l1.745-0.596l1.745-0.562
+			l1.745,0.058l1.745,1.338l1.745,3.152l1.745,5.479l1.745,7.896l1.745,9.848l1.745,10.672l1.745,10.386l1.745,9.465l1.745,8.662
+			l1.745,8.118l1.745,7.582l1.745,6.541l1.745,5.059l1.745,3.596l1.745,2.888l1.745,3.083l1.745,3.795l1.745,4.186l1.745,3.781
+			l1.745,2.627l1.745,1.291l1.745,0.262l1.745-0.109l1.745,0.27l1.745,1.383l1.745,2.906l1.745,4.352l1.745,5.178l1.745,5.26
+			l1.745,4.815l1.745,4.297l1.745,3.954l1.745,3.809l1.745,3.662l1.745,3.354l1.745,2.756l1.745,1.91l1.745,0.984l1.745,0.34
+			l1.745,0.263l1.745,0.815l1.745,1.695l1.745,2.514l1.745,2.99l1.745,3.084l1.745,2.837l1.744,2.324l1.745,1.667l1.744,1.095
+			l1.745,0.817l1.744,0.9l1.745,1.172l1.745,1.434l1.744,1.567l1.745,1.63l1.744,1.689l1.745,1.746l1.745,1.709l1.744,1.513
+			l1.745,1.179l1.745,0.856l1.744,0.706l1.745,0.827l1.744,1.144l1.745,1.498l1.744,1.733l1.745,1.797l1.745,1.714l1.744,1.492
+			l1.745,1.068l1.744,0.367l1.745-0.534l1.745-1.347l1.744-1.742l1.745-1.599l1.744-1.099l1.745-0.557l1.745-0.188l1.744-0.02
+			l1.745,0.012l1.744-0.023l1.745-0.057l1.745,0.014l1.744,0.309l1.745,0.847l1.744,1.487l1.745,1.941l1.745,1.951l1.744,1.471
+			l1.745,0.681l1.744-0.138l1.745-0.787l1.745-1.178l1.744-1.27l1.745-1.03l1.744-0.47l1.745,0.262l1.745,0.895l1.744,1.164
+			l1.745,1.002l1.744,0.573l1.745,0.153l1.744-0.066l1.745-0.047l1.745,0.158l1.744,0.484l1.745,0.86l1.745,1.196l1.744,1.422
+			l1.745,1.496l1.744,1.424l1.745,1.219l1.745,0.926l1.744,0.623l1.745,0.387l1.744,0.226l1.745,0.073l1.745-0.156l1.744-0.475
+			l1.745-0.765l1.744-0.889l1.745-0.786l1.744-0.554l1.745-0.366l1.745-0.33l1.744-0.398l1.745-0.438l1.744-0.337l1.745-0.103
+			l1.745,0.177l1.744,0.391l1.745,0.486l1.744,0.473l1.745,0.395l1.745,0.305l1.744,0.26l1.745,0.285l1.744,0.36l1.745,0.411
+			l1.745,0.377l1.744,0.272l1.745,0.173l1.744,0.142l1.745,0.188l1.745,0.297l1.744,0.453l1.745,0.639l1.744,0.807"/>
+		<path fill="none" stroke="#000000" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" d="M116.4,183.535
+			l1.745-38.419l1.745-27.767l1.745-18.484l1.745-13.344l1.745-12.002l1.745-12.083l1.745-10.92l1.745-7.357l1.745-2.038
+			l1.745,3.046L135.592,50l1.745,5.545l1.745,2.643l1.745-1.004l1.745-3.606l1.745-3.877l1.745-2.029l1.745,1.014l1.745,3.748
+			l1.745,5.471l1.745,5.855l1.745,5.432l1.745,4.562l1.745,3.729l1.745,2.933l1.745,2.249l1.745,1.381l1.745,0.417l1.745-0.566
+			l1.745-0.917l1.745-0.339l1.745,1.137l1.745,2.524l1.745,2.936l1.745,1.941l1.745,0.387l1.745-0.581l1.745,0.035l1.745,2.076
+			l1.745,4.851l1.745,7.293l1.745,8.888l1.745,9.361l1.745,9.035l1.745,8.153l1.745,7.125l1.745,6.001l1.745,4.925l1.745,3.912
+			l1.745,3.332l1.745,3.299l1.745,3.857l1.745,4.564l1.745,5.171l1.745,5.475l1.745,5.651l1.745,5.781l1.745,6.093l1.745,6.609
+			l1.745,7.277l1.745,7.626l1.745,7.302l1.745,6.197l1.745,4.801l1.745,3.563l1.745,2.734l1.745,2.141l1.745,1.734l1.745,1.557
+			l1.745,1.842l1.745,2.531l1.745,3.453l1.745,4.322l1.745,5.063l1.745,5.631l1.745,5.992l1.745,5.94l1.745,5.351l1.745,4.261
+			l1.745,3.052l1.745,2.168l1.745,1.912l1.745,2.098l1.745,2.318l1.745,2.187l1.745,1.714l1.745,1.139l1.745,0.688l1.745,0.34
+			l1.745,0.012l1.745-0.245l1.745-0.189l1.745,0.322l1.745,1.201l1.745,2.129l1.745,2.846l1.745,3.223l1.744,3.234l1.745,2.859
+			l1.744,2.154l1.745,1.289l1.744,0.535l1.745,0.071l1.745-0.061l1.744,0.05l1.745,0.342l1.744,0.78l1.745,1.323l1.745,1.8
+			l1.744,1.987l1.745,1.715l1.745,1.066l1.744,0.354l1.745-0.054l1.744,0.041l1.745,0.531l1.744,1.073l1.745,1.309l1.745,1.069
+			l1.744,0.519l1.745,0.029l1.744-0.037l1.745,0.417l1.745,1.173l1.744,1.824l1.745,2.021l1.744,1.652l1.745,0.885l1.745,0.057
+			l1.744-0.516l1.745-0.69l1.744-0.552l1.745-0.305l1.745-0.163l1.744-0.245l1.745-0.541l1.744-0.898l1.745-1.083l1.745-0.888
+			l1.744-0.314l1.745,0.416l1.744,0.968l1.745,1.151l1.745,0.99l1.744,0.65l1.745,0.303l1.744,0.061l1.745-0.01l1.745,0.097
+			l1.744,0.272l1.745,0.336l1.744,0.16l1.745-0.18l1.744-0.441l1.745-0.383l1.745,0.039l1.744,0.621l1.745,1.059l1.745,1.15
+			l1.744,0.936l1.745,0.633l1.744,0.448l1.745,0.445l1.745,0.536l1.744,0.604l1.745,0.566l1.744,0.389l1.745,0.066l1.745-0.354
+			l1.744-0.727l1.745-0.847l1.744-0.579l1.745,0.002l1.744,0.617l1.745,0.938l1.745,0.824l1.744,0.398l1.745-0.055l1.744-0.301
+			l1.745-0.297l1.745-0.178l1.744-0.107l1.745-0.148l1.744-0.232l1.745-0.248l1.745-0.133l1.744,0.074l1.745,0.283l1.744,0.414
+			l1.745,0.443l1.745,0.4l1.744,0.348l1.745,0.323l1.744,0.326l1.745,0.333l1.745,0.344l1.744,0.39l1.745,0.502l1.744,0.651"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M496,98V42H355v56H496z"/>
+	</g>
+	<g transform="translate(401.3914,52.5)">
+		<text transform="matrix(1 0 0 1 2.136230e-004 4.5)" font-family="'MyriadPro-Regular'" font-size="11.875">Ripples UP m</text>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#0000FF" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" x1="358.983" y1="52.5" x2="398.403" y2="52.5"/>
+	</g>
+	<g transform="translate(401.3914,70)">
+		<text transform="matrix(1 0 0 1 2.136230e-004 4.5)" font-family="'MyriadPro-Regular'" font-size="11.875">Ripples up noon</text>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#FF0000" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" x1="358.983" y1="70" x2="398.403" y2="70"/>
+	</g>
+	<g transform="translate(401.3914,87.5)">
+		<text transform="matrix(1 0 0 1 2.136230e-004 4.5)" font-family="'MyriadPro-Regular'" font-size="11.875">Ripples UP soir</text>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.6389" stroke-linejoin="round" stroke-miterlimit="10" x1="358.983" y1="87.5" x2="398.403" y2="87.5"/>
+	</g>
+	<g>
+		<path fill="none" stroke="#262626" stroke-width="0.6597" stroke-miterlimit="10" d="M355,98V42h141v56H355z"/>
+	</g>
+</g>
+</svg>
